@@ -1,6 +1,7 @@
 # ini adalah branch
 melakukan penjadwalan pembelajaran
-==<br><br>
+==
+<br><br>
   **Senin**
 * Saya ingin melakukan pull request dan merge
 * ini adalah branch 2
