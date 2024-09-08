@@ -7,4 +7,4 @@ Cara mengatasi Merge Konflik
 * Dengan mengubah atau mengupdate pada kedua commit
 
   **Contoh :**
-  * saat ini belajar git sangat menyenangkan ya :)
+  * Belajar Coding itu menyenangkan bukan ? bukan
